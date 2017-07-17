@@ -1,0 +1,15 @@
+body {
+	background-image: url('https://images.designtrends.com/wp-content/uploads/2015/12/21135619/Basketball-Background.jpg') !important;
+	background-repeat: no-repeat;
+}
+
+.jumbotron {
+	background-color:#002B5C !important;
+	text-align: center;
+	color: white !important;
+	font-family: 'Abril Fatface', cursive;
+}
+
+#startButton {
+	background-color: #F9A01B;
+}
